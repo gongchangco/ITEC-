@@ -1,3 +1,3 @@
 # ITEC-Works
-GGC ITEC 
-Simple homeworks and activites.
+GGC ITEC <br/>
+Only simple homeworks, labs, activites, and projects.
