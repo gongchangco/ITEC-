@@ -1,0 +1,52 @@
+Bob	bob@ggc.edu	Digital Media	75	24.196.232.233
+Trent	trent@ggc.edu	Business	100	24.196.232.233
+Yahoo	yahoo@abc.com	Software	100	24.196.232.233
+Bob	bobbin@abc.com	Software	75	16.122.222.233
+Blank	blank@ggc.edu	Software	50	24.196.232.233
+What	what@123.com	Digital Media	0	24.196.232.233
+afas	bbb@abc.com	Digital Media	100	24.125.138.102
+rrrrrrr	bbb@abc.com	Security	25	24.125.138.102
+wwwww	eeee@abc.com	Other	75	24.125.138.102
+dfg	slai@ggc.edu	Business	50	24.125.138.102
+john	asdf@hotmail.com	Software	50	168.28.22.146
+Some Guy	internet@internet.com	Business	100	168.28.22.146
+Alex Bui	inspiritsj93@gmail.com	Digital Media	100	168.28.22.146
+asdf	asdf@ggc.edu	Digital Media	0	50.147.203.70
+asdf	asdf@ggc.edu	Digital Media	25	50.147.203.70
+asdf	asdf@ggc.edu	Digital Media	25	50.147.203.70
+sdf	asdf@ggc.edu	Digital Media	25	50.147.203.70
+sdf	asdf@ggc.edu	Digital Media	25	50.147.203.70
+asdf	asdf@ggc.edu	Digital Media	100	50.147.203.70
+asdf	asdf@ggc.edu	Software	0	50.147.203.70
+asdf	asdf@ggc.edu	Digital Media	0	50.147.203.70
+asdf	asdf@ggc.edu	Business	0	50.147.203.70
+asdf	asdf@ggc.edu	Security	100	50.147.203.70
+Carlos	cmunoz1@ggc.edu	Digital Media	100	168.28.22.146
+Carlos	cmunoz1@ggc.edu	Digital Media	75	168.28.22.146
+Carlos	cmunoz1@ggc.edu	Digital Media	50	168.28.22.146
+Dude	who@gmail.com	Digital Media	75	168.28.22.146
+Dude	who@gmail.com	Digital Media	100	168.28.22.146
+hello	ggg@ggc.edu	Digital Media	50	168.28.22.146
+hello	ggg@ggc.edu	Digital Media	50	168.28.22.146
+carlos	cmunoz1@ggc.edu	Digital Media	100	168.28.22.146
+carlos	cmunoz1@ggc.edu	Digital Media	75	168.28.22.146
+carlos	cmunoz1@ggc.edu	Digital Media	75	168.28.22.146
+carlos	cmunoz1@ggc.edu	Digital Media	0	168.28.22.146
+carlos	cmunoz1@ggc.edu	Digital Media	0	168.28.22.146
+asdasda	inspiritsj93@gmail.com	Security	0	98.192.41.27
+asdasda	inspiritsj93@gmail.com	Security	100	98.192.41.27
+Cameron	irishfire777@gmail.com	Digital Media	100	24.98.54.89
+Cameron	irishfire777@gmail.com	Digital Media	0	24.98.54.89
+Cameron	irishfire777@gmail.com	Digital Media	75	24.98.54.89
+Cameron	irishfire777@gmail.com	Digital Media	75	24.98.54.89
+Cameron	irishfire777@gmail.com	Digital Media	100	24.98.54.89
+Cameron	irishfire777@gmail.com	Digital Media	100	24.98.54.89
+Cameron	irishfire777@gmail.com	Digital Media	0	24.98.54.89
+Cameron	irishfire777@gmail.com	Digital Media	0	24.98.54.89
+Karl Kraus	jedikarlkraus@bellsouth.net	Software	100	108.74.190.25
+Karl Kraus	jedikarlkraus@bellsouth.net	Software	75	108.74.190.25
+Karl Kraus	jedikarlkraus@bellsouth.net	Software	50	108.74.190.25
+test	test@test.com	Digital Media	0	1.23.124.249
+test	test@test.com	Digital Media	25	1.23.124.249
+ertyui	abc@ggc.edu	Business	100	172.56.5.105
+Trent	trent@ggc.edu	Business	50	24.196.232.233
